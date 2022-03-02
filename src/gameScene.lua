@@ -191,10 +191,10 @@ function GameScene:draw()
     gameMap:drawLayer(gameMap.layers["Props"])
     if not exploded then gameMap:drawLayer(gameMap.layers["EarthQuakeMachine"]) end
     
-    Enemy:drawAll()
-    if not gameEnded then Player:draw() end
     Bullet:drawAll()
     EnemyBullet:drawAll()
+    if not gameEnded then Player:draw() end
+    Enemy:drawAll()
     Medkit:drawAll()
     Explosion:draw()
 
