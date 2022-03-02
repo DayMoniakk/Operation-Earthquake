@@ -1,7 +1,9 @@
 # Operation Earthquake
 
 This is my entry for the [LÖVE JAM 2022](https://itch.io/jam/love2d-jam-2022).  
-All the sprites, sounds effect and music were made during the game jam.
+This is my first ever full project released using this wonderful framework.
+
+All the sprites, sounds effect and music were made during the game jam.  
 
 <img src="preview.png" alt="game preview" width="800"/>
 
