@@ -4,6 +4,7 @@ This is my entry for the [LÖVE JAM 2022](https://itch.io/jam/love2d-jam-2022).
 This is my first ever full project released using this wonderful framework.
 
 All the sprites, sounds effect and music were made during the game jam.  
+The font is made by [Zeh Fernando](https://www.dafont.com/fr/perfect-dos-vga-437.font?text=retry&back=bitmap)
 
 <img src="preview.png" alt="game preview" width="800"/>
 
