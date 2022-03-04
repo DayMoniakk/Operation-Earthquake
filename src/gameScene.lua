@@ -193,8 +193,8 @@ function GameScene:draw()
     
     Bullet:drawAll()
     EnemyBullet:drawAll()
-    if not gameEnded then Player:draw() end
     Enemy:drawAll()
+    if not gameEnded then Player:draw() end
     Medkit:drawAll()
     Explosion:draw()
 
